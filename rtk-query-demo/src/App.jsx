@@ -1,4 +1,3 @@
-import "./App.css";
 import Users from "./features/Redux-Toolkit-Query/users/Users";
 
 function App() {
